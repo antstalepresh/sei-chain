@@ -15,14 +15,14 @@ clap = "2.33.1"
 serde = "1.0.112"
 hex = "0.4.3"
 hyper = "=0.14.20"
-solana-runtime = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-program-runtime = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-sdk = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-core = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-ledger = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-bpf-loader-program = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-program = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
-solana-geyser-plugin-interface = { git = "https://github.com/sei-protocol/solana", branch = "v1.10.26-nitro" }
+solana-runtime = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-program-runtime = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-sdk = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-core = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-ledger = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-bpf-loader-program = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-program = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
+solana-geyser-plugin-interface = { git = "https://github.com/antstalepresh/solana", branch = "v1.10.26-nitro" }
 
 [build-dependencies]
 cbindgen = "0.18.0"
